@@ -2,6 +2,12 @@
 
 This repository is a public distribution surface for materials that Signalproof intentionally releases for public use.
 
+## Signalproof CLI preview
+
+![Signalproof CLI red and gold terminal](docs/assets/signalproof-cli-red-gold.svg)
+
+This public preview uses sanitized demo identity data. It shows the intended red-and-gold Signalproof CLI terminal identity, Signal Keys status, provider-neutral runtime presentation, and connected command prompt without exposing private connection details.
+
 ## License
 
 Unless a file or directory states otherwise, original Signalproof source code and documentation in this repository are licensed under the **Apache License 2.0**. See [`LICENSE`](LICENSE).
